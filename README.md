@@ -140,7 +140,6 @@ sniper -u|--update
 
 ## 👥 Copyrights
 
-- Author: Zach Mayer
 - Licensing: MIT
 
 ## ⚠️ Legal
